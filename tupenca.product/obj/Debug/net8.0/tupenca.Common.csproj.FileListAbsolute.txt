@@ -1,0 +1,12 @@
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\bin\Debug\net8.0\tupenca.Common.deps.json
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\bin\Debug\net8.0\tupenca.Common.dll
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\bin\Debug\net8.0\tupenca.Common.pdb
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\obj\Debug\net8.0\tupenca.Common.csproj.AssemblyReference.cache
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\obj\Debug\net8.0\tupenca.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\obj\Debug\net8.0\tupenca.Common.AssemblyInfoInputs.cache
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\obj\Debug\net8.0\tupenca.Common.AssemblyInfo.cs
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\obj\Debug\net8.0\tupenca.Common.csproj.CoreCompileInputs.cache
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\obj\Debug\net8.0\tupenca.Common.dll
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\obj\Debug\net8.0\refint\tupenca.Common.dll
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\obj\Debug\net8.0\tupenca.Common.pdb
+C:\Users\JMarr\OneDrive\Escritorio\.NET\tupenca\tupenca.product\obj\Debug\net8.0\ref\tupenca.Common.dll

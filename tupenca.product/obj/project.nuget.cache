@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UyrWCADtf8EcR8MWdLvUBg3CekBZ1CvPtSbKj8gTaWiI93DX+KVL6+ECPw1CeRe/uOa+XJ1s+MHJnAeibSe5dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JMarr\\OneDrive\\Escritorio\\.NET\\tupenca\\tupenca.product\\tupenca.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JMarr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
